@@ -1,4 +1,5 @@
 echo "this is test data"
+echo "sec change the data"
 date
 cal
 echo "bye"
